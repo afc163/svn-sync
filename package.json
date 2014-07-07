@@ -1,0 +1,16 @@
+{
+  "name": "svn-sync",
+  "version": "0.1.0",
+  "description": "Get svn info object synchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/*.js"
+  },
+  "author": "afc163 <afc163@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.3.0",
+    "should": "^4.0.4",
+    "to-camel-case": "^0.2.1"
+  }
+}
