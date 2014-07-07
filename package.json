@@ -1,8 +1,12 @@
 {
   "name": "svn-sync",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Get svn info object synchronously",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:afc163/svn-sync.git"
+  },
   "scripts": {
     "test": "node tests/*.js"
   },
